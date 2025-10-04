@@ -9,6 +9,7 @@ This script automatically logs into the University of Birjand Wi-Fi network usin
 2. **Install Python dependencies**  
    ```bash
    pip install -r requirements.txt
+   apt install python3-selenium
 
 3. **Install WebDriver (GeckoDriver for Firefox)** (
     ```bash
