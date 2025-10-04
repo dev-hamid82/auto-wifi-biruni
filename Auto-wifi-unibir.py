@@ -40,7 +40,7 @@ else:
     pass
 
 # SSIDs ------------------------------------
-WIFI_SSIDS = ["SARV I", "SARV II", "SARV III", "SARV IV", "Network", "Amir", "Sadaf I", "Sadaf II", "Sadaf III", "Sadaf IV", "Sardar"]
+WIFI_SSIDS = ["SARV I", "SARV II", "SARV III", "SARV IV", "Network", "Amir", "Sadaf I", "Sadaf II", "Sadaf III", "Sadaf IV", "Sardar", "Abouzar", "Tohid"]
 WIFI_PASSWORD = ""
 
 # Captive Portal ------------------------------------
