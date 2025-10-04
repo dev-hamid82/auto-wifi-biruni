@@ -11,11 +11,11 @@ This script automatically logs into the University of Birjand Wi-Fi network usin
    pip install -r requirements.txt
 
 3. **Install WebDriver (GeckoDriver for Firefox)** (
-    
-3.1 wget https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz
-3.2 tar -xvzf geckodriver-v0.34.0-linux64.tar.gz
-3.3 sudo mv geckodriver /usr/local/bin/
-3.4 geckodriver --version
+    ```bash
+   wget https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz
+   tar -xvzf geckodriver-v0.34.0-linux64.tar.gz
+   sudo mv geckodriver /usr/local/bin/
+   geckodriver --version
  )
 
 
