@@ -1,0 +1,5 @@
+selenium==4.18.1
+re
+time
+os
+subprocess
