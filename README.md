@@ -43,4 +43,4 @@ Make sure you have Python 3.x installed.
 
 Your login credentials must be configured correctly in the script.
 
-Tested on Linux (you may need to adapt for Windows).
+Tested on Linux.
